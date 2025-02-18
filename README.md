@@ -17,28 +17,28 @@ The Real-Time Collaborative Code Editor is a web-based application designed to e
 
 # Key Features #
 1. User Authentication and Room Management:
-   Users can create or join code rooms by providing a room ID and their username.
-   Each room is uniquely identified, and users can see a list of participants in the room.
-   Room management ensures that users can leave and join rooms dynamically, with real-time updates on user presence.
+ -  Users can create or join code rooms by providing a room ID and their username.
+ -  Each room is uniquely identified, and users can see a list of participants in the room.
+ -  Room management ensures that users can leave and join rooms dynamically, with real-time updates on user presence.
 
 2. Real-Time Code Synchronization:
-   The application uses Socket.IO to facilitate real-time communication between the server and clients.
-   Code changes made by any user are instantly broadcasted to all other participants in the room, ensuring that everyone sees the latest version of the code.
-   The typing indicator feature shows when a user is actively typing, providing a more collaborative and engaging experience.
+ -  The application uses Socket.IO to facilitate real-time communication between the server and clients.
+ -  Code changes made by any user are instantly broadcasted to all other participants in the room, ensuring that everyone sees the latest version of the code.
+ -  The typing indicator feature shows when a user is actively typing, providing a more collaborative and engaging experience.
 
 3. Multi-Language Support:
-   Users can select from a variety of programming languages such as JavaScript, Python, Java, and C++.
-   The application updates the code editor's syntax highlighting and language mode based on the selected language.
-   Language changes are also broadcasted to all participants, ensuring consistency in the coding environment.
+ -  Users can select from a variety of programming languages such as JavaScript, Python, Java, and C++.
+ -  The application updates the code editor's syntax highlighting and language mode based on the selected language.
+ -  Language changes are also broadcasted to all participants, ensuring consistency in the coding environment.
 
 4. Code Editor Integration:
-   The application integrates the Monaco Editor, a powerful and feature-rich code editor used by Visual Studio Code.
-   The editor provides a comfortable and familiar coding environment with features like syntax highlighting, code folding, and customizable themes.
-   Users can customize the editor settings, such as font size and minimap visibility, to suit their preferences.
+ -  The application integrates the Monaco Editor, a powerful and feature-rich code editor used by Visual Studio Code.
+ -  The editor provides a comfortable and familiar coding environment with features like syntax highlighting, code folding, and customizable themes.
+ -  Users can customize the editor settings, such as font size and minimap visibility, to suit their preferences.
 
 5. Responsive Design:
-   The user interface is designed to be responsive and user-friendly, ensuring a smooth experience across different devices and screen sizes.
-   The application uses modern CSS techniques and frameworks to achieve a clean and intuitive layout.
+ -  The user interface is designed to be responsive and user-friendly, ensuring a smooth experience across different devices and screen sizes.
+ -  The application uses modern CSS techniques and frameworks to achieve a clean and intuitive layout.
 
 # Technical Stack #
 1. Frontend:
@@ -47,9 +47,9 @@ The Real-Time Collaborative Code Editor is a web-based application designed to e
  -  Monaco Editor: A powerful code editor with advanced features.
 
 2. Backend:
-   Express.js: A fast and minimalistic web framework for Node.js.
-   Socket.IO: A library for enabling real-time, bidirectional communication.
-   Node.js: A JavaScript runtime for building scalable network applications.
+ -  Express.js: A fast and minimalistic web framework for Node.js.
+ -  Socket.IO: A library for enabling real-time, bidirectional communication.
+ -  Node.js: A JavaScript runtime for building scalable network applications.
 
 # Project Workflow #
    Users navigate to the web application and join a code room by entering a room ID and username.
