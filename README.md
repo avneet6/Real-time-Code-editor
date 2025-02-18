@@ -64,5 +64,11 @@ The Real-Time Collaborative Code Editor is a web-based application designed to e
 
 # OUTPUT #
 
+ ![Image](https://github.com/user-attachments/assets/37ebf893-a393-4e07-8354-b94fc51eabc5)
+![Image](https://github.com/user-attachments/assets/b1fa3db0-6ff5-4917-b7d5-769221a33bd3)
+![Image](https://github.com/user-attachments/assets/436ecd63-b9bf-48bb-99a4-f7335ca40ef5)
+![Image](https://github.com/user-attachments/assets/20811d24-3d0b-459f-82e4-8c9f3181ad25)
+![Image](https://github.com/user-attachments/assets/5e6caad4-8b50-430b-b607-38e40ceec71d)
+![Image](https://github.com/user-attachments/assets/e451610f-8b4c-40c6-b0bd-749a2703acdb)
    
    
