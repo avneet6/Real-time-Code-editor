@@ -12,7 +12,7 @@
 
 *MENTOR* - NEELA SANTOSH
 
-#### PROJECT DESCRIPTION #######
+# PROJECT DESCRIPTION #
 The Real-Time Collaborative Code Editor is a web-based application designed to enable multiple users to collaborate on coding projects in real time. This application provides an interactive environment where users can join virtual code rooms, write and edit code together, and see changes as they happen. The project is built using modern web technologies and leverages the power of WebSockets for real-time communication, ensuring a seamless and synchronized coding experience for all participants.
 
 # Key Features
