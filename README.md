@@ -15,7 +15,7 @@
 # PROJECT DESCRIPTION #
 The Real-Time Collaborative Code Editor is a web-based application designed to enable multiple users to collaborate on coding projects in real time. This application provides an interactive environment where users can join virtual code rooms, write and edit code together, and see changes as they happen. The project is built using modern web technologies and leverages the power of WebSockets for real-time communication, ensuring a seamless and synchronized coding experience for all participants.
 
-# Key Features
+# Key Features #
 1. User Authentication and Room Management:
    Users can create or join code rooms by providing a room ID and their username.
    Each room is uniquely identified, and users can see a list of participants in the room.
@@ -42,9 +42,9 @@ The Real-Time Collaborative Code Editor is a web-based application designed to e
 
 # Technical Stack #
 1. Frontend:
-   React.js: A popular JavaScript library for building user interfaces.
-   Socket.IO-client: A library for real-time web applications.
-   Monaco Editor: A powerful code editor with advanced features.
+ -  React.js: A popular JavaScript library for building user interfaces.
+ -  Socket.IO-client: A library for real-time web applications.
+ -  Monaco Editor: A powerful code editor with advanced features.
 
 2. Backend:
    Express.js: A fast and minimalistic web framework for Node.js.
